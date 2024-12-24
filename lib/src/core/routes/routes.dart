@@ -1,6 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
+import '../../features/auth/presentation/screens/Auth_screen.dart';
 import '../../features/home/presentation/screens/home_screen.dart';
 
 class Routes {
@@ -17,6 +18,10 @@ class Routes {
       case home:
         {
           return HomeScreen.route(routeSettings);
+        }
+      case auth:
+        {
+          return AuthScreen.route(routeSettings);
         }
       default:
         {
