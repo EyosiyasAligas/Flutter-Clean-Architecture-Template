@@ -2,7 +2,7 @@
 
 A Flutter starter project demonstrating a clean‑architecture setup with:
 
-- **Authentication** (email/password + social providers)
+- **Authentication** (email/password)
 - **Theme Mode** (light & dark)
 - **Localization** (i18n)
 
