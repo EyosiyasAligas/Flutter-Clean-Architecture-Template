@@ -1,4 +1,3 @@
-````markdown
 # Flutter Clean Architecture Template
 
 A Flutter starter project demonstrating a clean‑architecture setup with:
@@ -17,9 +16,9 @@ It’s designed to help you kick off production‑ready apps with best practices
 
 1. **Clone** this repo  
    ```bash
-   git clone https://github.com/your‑org/flutter_clean_arch_template.git
+   git clone https://github.com/EyosiyasAligas/Flutter-Clean-Architecture-Template.git
    cd Flutter-Clean-Architecture-Template
-````
+
 
 2. **Install dependencies**
 
